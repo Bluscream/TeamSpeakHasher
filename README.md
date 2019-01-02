@@ -2,6 +2,10 @@
 
 TeamSpeakHasher is an OpenCL-based tool that can be used to increase the security level of TeamSpeak identities with unprecedented performance and efficiency.
 
+## Precompiled Binaries
+### Windows
+https://github.com/Bluscream/TeamSpeakHasher/releases/
+
 ## Build Instructions
 ### Linux
 1. Make sure you have the OpenCL headers and libraries set up properly on your system.
